@@ -12,11 +12,9 @@ keep_files:
   - ".git"
   - ".gitignore"
 
-google_analytics: UA-141412571-1
-
 # Site settings
-title: FUNSD
-subtitle: "FUNSD dataset webpage"
+title: film-visualisation
+subtitle: "A website for visualising movies"
 url: "https://guillaumejaume.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/"
@@ -25,9 +23,6 @@ logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
-
-# Google analytics
-# ga_tracking_id: "UA-XXXX-1"
 
 # Category descriptions (for archive pages)
 descriptions:
